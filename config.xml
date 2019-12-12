@@ -3,11 +3,11 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "SVM24.ru"
+        id          = "ru.svm24.app"
         versionCode = "10"
-        version     = "1.3.0">
+        version     = "1.4.0">
 
-    <name>SVM24 Mobile</name>
+    <name>SVM24</name>
 
     <description>
         Продажа профессионального крепежа и инструмента оптом и в розницу. Доставка по СПб и всей России. Выгодные цены. Особые условия при крупных заказах.
