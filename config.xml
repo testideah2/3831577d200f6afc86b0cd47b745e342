@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "SVM24.ru"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. SVM24 Mobile</name>
+    <name>SVM24 Mobile</name>
 
     <description>
         Продажа профессионального крепежа и инструмента оптом и в розницу. Доставка по СПб и всей России. Выгодные цены. Особые условия при крупных заказах.
