@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.svm24.app"
         versionCode = "10"
-        version     = "1.10.0">
+        version     = "1.11.0">
 
     <name>SVM24</name>
 
